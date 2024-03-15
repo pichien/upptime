@@ -17,8 +17,8 @@ status-website:
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 滙智實業網站的運轉時間追蹤
+  introTitle: "**Upptime** 是開放原始碼的運轉監視及狀態頁面，完全運作在 GitHub 上"
+  introMessage: 滙智實業網站的運轉監視
   navbar:
     - title: Status
       href: /
